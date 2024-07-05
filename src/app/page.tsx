@@ -12,7 +12,7 @@ export default function Home() {
         <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
             {/* 头部文案 */}
             <header className="text-3xl font-bold text-center text-gray-800 my-8">
-                大营销平台 - 抽奖展示
+                抽奖展示
             </header>
 
             {/* 装配抽奖 */}
@@ -34,7 +34,7 @@ export default function Home() {
 
             {/* 底部文案 */}
             <footer className="text-gray-600 text-center my-8">
-                抽奖demo <a href='https://gaga.plus' target='_blank'>https://gaga.plus</a>
+                抽奖demo <a href='https://gaga.plus' target='_blank'>https://github.com/boom0730</a>
             </footer>
         </div>
     );
