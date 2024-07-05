@@ -34,7 +34,7 @@ export default function Home() {
 
             {/* 底部文案 */}
             <footer className="text-gray-600 text-center my-8">
-                本项目为 星球「码农会锁」第8个实战项目 <a href='https://gaga.plus' target='_blank'>https://gaga.plus</a> @小傅哥
+                抽奖demo <a href='https://gaga.plus' target='_blank'>https://gaga.plus</a>
             </footer>
         </div>
     );
