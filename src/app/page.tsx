@@ -34,7 +34,7 @@ export default function Home() {
 
             {/* 底部文案 */}
             <footer className="text-gray-600 text-center my-8">
-                抽奖demo <a href='https://gaga.plus' target='_blank'>https://github.com/boom0730</a>
+                抽奖demo <a href='https://github.com/boom0730' target='_blank'>https://github.com/boom0730</a>
             </footer>
         </div>
     );
